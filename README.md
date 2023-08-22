@@ -32,24 +32,6 @@ The `examples` directory is current empty as no examples were published with thi
 	<dd>Payer/Provider Information Exchange Work Group</dd>
 </dl>
 
-## Contents of the package
-<dl>
-	<dt>This file</dt>
-	<dd>README.md</dd>
-</dl>
-
-### Errata files
-<dl>
-	<dt>HL7 CTO Errata Letter</dt>
-	<dd><a href="https://github.com/HL7/cda-attachments-ig/blob/master/input/_CSDO%20Errata%20Letter%20CCDA%20Attachments%20IG%202023AUG%20errata.docx"><code>_CSDO Errata Letter CCDA Attachments IG 2023AUG errata.docx</code></a></dd>
-</dl>
-
-### STU
-<dl>
-	<dt>Attachment Implementation Guide: Exchange of C-CDA Based Documents R2</dt>
-	<dd><a href="https://github.com/HL7/cda-attachments-ig/blob/master/input/CDAR2_AIG_CCDA_EXCHANGE_R1_I1_2022MAR_2023AUG_with_errata.docx"><code>CDAR2_AIG_CCDA_EXCHANGE_R1_I1_2022MAR_2023AUG_with_errata.docx</code></a></dd>
-</dl>
-
 ## See also
 * [Transform/Stylesheet files](https://hl7.org/permalink/?CDAStyleSheet)
 * [Schema files](https://hl7.org/permalink/?CDAR2.0schema)
